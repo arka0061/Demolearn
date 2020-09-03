@@ -22,7 +22,7 @@ usernamechangedhandler=(event)=>{
       </UserInput>
       <UserOutput usrname={this.state.username}></UserOutput>
       <UserOutput usrname={this.state.username}></UserOutput>
-      <UserOutput usrname="Max"></UserOutput>
+      <UserOutput usrname="arkaaaaaaaaaaaaaa"></UserOutput>
         
        
       </div>
